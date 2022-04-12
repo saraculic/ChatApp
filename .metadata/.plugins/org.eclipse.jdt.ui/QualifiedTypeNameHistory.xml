@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.persistence.EntityTransaction"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.persistence.Query"/>
+    <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
+    <fullyQualifiedTypeName name="utils.PersistenceUtil"/>
+    <fullyQualifiedTypeName name="crud.PorukaCrud"/>
+    <fullyQualifiedTypeName name="gui.DUnosPoruke"/>
+    <fullyQualifiedTypeName name="model.Korisnik"/>
+    <fullyQualifiedTypeName name="gui.DBrisanjeKorisnika"/>
+    <fullyQualifiedTypeName name="javax.swing.table.AbstractTableModel"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="crud.KorisnikCrud"/>
+    <fullyQualifiedTypeName name="gui.TableModel"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="model.Poruka"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="gui.DPrikazPoslatihPoruka"/>
+</qualifiedTypeNameHistroy>
